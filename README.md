@@ -22,7 +22,7 @@ _**IMPORTANT: Read and follow the [wiring instructions](https://github.com/borte
 ## Main Features ##
 
 - Supports Raspberry Pi1A+, Pi1B+, Pi2B, Pi3B (Pi3A+ and Pi3B+ currently not supported!), Pi Zero, Pi Zero W, Odroid-W
-- Typical glass-to-glass talency of ~125ms. Minimum achieved latency ~110ms (FPV-VR app allows for lower latency)
+- Typical glass-to-glass latency of ~125ms. Minimum achieved latency ~110ms (FPV-VR app allows for lower latency)
 - Raspberry Pi V1 and V2 cameras supported
 - HDMI cameras supported via HDMI-CSI adapters
 - Up to 1920x1080p 30fps Resolution and up to 12Mbit video bitrate achived
